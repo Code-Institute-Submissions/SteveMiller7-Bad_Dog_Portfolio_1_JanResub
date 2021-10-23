@@ -1,8 +1,70 @@
-img {
-    width: 100%;
-    height: auto;
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
 }
-#logo-sample {
-    width: 300px;
-    height: auto;
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    color: black;
+}
+
+    /* Nav bar */ 
+
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    text-align: center;
+    background-color:rgba(255, 255, 255, 0.7);
+}
+
+#menu {
+    line-height: 75px;
+}
+
+#menu li {
+    
+    display: inline-block;
+    list-style: none;
+    margin: 20px 140px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid black;
+}
+
+.active {
+    border-bottom: 1px solid black;
+}
+
+/* main banner and logo */
+
+#main-banner-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+
+#main-banner-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/AdobeStock_302153332.jpeg')center center;
+    background-size: contain;
+    
 }
