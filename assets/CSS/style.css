@@ -57,8 +57,20 @@ body {
 #main-banner-image {
     height: 600px;
     width: 100%;
-    background: url('../images/main_header_2-01.png') no-repeat left center;
-    
-  
+    background: url('../images/main_header_2-01.png') no-repeat center;
+    background-position: -300px;
+}
 
+#logo {
+    background: url('../images/Bad\ Dog.png') no-repeat left center;
+    background-position: center;
+    background-size:40%;
+    padding: 200px 50px;
+    
+    width: 100%;
+
+    bottom: 50px;
+    right: -10vw;
+
+    position: absolute;
 }
