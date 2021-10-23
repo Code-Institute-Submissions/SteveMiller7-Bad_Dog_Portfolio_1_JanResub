@@ -31,7 +31,10 @@ body {
     
     display: inline-block;
     list-style: none;
-    margin: 20px 140px;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    margin-right: 5%;
+    margin-left: 5%;
 }
 
 #menu a {
@@ -49,22 +52,13 @@ body {
 
 /* main banner and logo */
 
-#main-banner-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
 
-    position: relative;
-}
-
-#cover-text, #cover-text h2 {
-    color: #fff;
-}
 
 #main-banner-image {
     height: 600px;
     width: 100%;
-    background: url('../images/AdobeStock_302153332.jpeg')center center;
-    background-size: contain;
+    background: url('../images/main_header_2-01.png') no-repeat left center;
     
+  
+
 }
