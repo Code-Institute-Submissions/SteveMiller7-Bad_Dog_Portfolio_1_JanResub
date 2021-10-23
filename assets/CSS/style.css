@@ -52,25 +52,21 @@ body {
 
 
 
-#main-banner-image {
-    height: 600px;
+.main-banner-image {
+    height: 800px;
     width: 100%;
-    background: url('../images/main_header_2-01.png') no-repeat center center;
-    background-position: -300px;
+    background: url('../images/main_header_2-01.png') no-repeat left center;
+
+
+    
 }
 
 #logo {
-    background: url('../images/Bad\ Dog.png') no-repeat left center;
-    background-position: center;
-    background-size: 45%;
-    padding-top: 190px;
-    padding-bottom: 190px;
+    background: url('../images/Bad\ Dog.png') no-repeat center center;
+    height: 600px;
+    width: 100vw;
+    background-size: 30%;
     
-    width: 100%;
-
-    background-color: rgba(255, 255, 255, 0.3);
-
-    bottom: 50px;
-
-    position: absolute;
+    
+    padding-top: 250px;
 }
