@@ -29,6 +29,10 @@ h1, h2 {
     color: #333;
 }
 
+h3 {
+    color: white;
+}
+
 .active {
     border-left: 1px dotted #3a3a3a;
     border-right: 1px dotted #3a3a3a ;
@@ -241,6 +245,17 @@ footer {
 /* Contact section */
 
 
+
+input[type=text],
+input[type=email] {
+    height: 30px;
+    width: 90%;
+    padding-left: 10px;
+	margin: 0 auto;
+}
+
+
+
 .contact-column {
     float: left;
     width: 45%;
@@ -250,4 +265,29 @@ footer {
 .contact-column h1 {
     color: #c9c592;
     font-size: 300%;
+}
+
+.contact-column h2 {
+    color: white;
+    font-size: 300%;
+}
+
+.contact-column span {
+    color: white;
+}
+
+fieldset {
+	border: none;
+	margin-top: 20px;
+}
+
+.block-label {
+	display: block;
+}
+datalist {
+    color: #333;
+}
+
+.datalist-hr {
+    margin: 1.5vh 0;
 }

@@ -27,14 +27,45 @@
            
     
             <div class="contact-column">
-                <h1>“Dogs are great. Bad dogs, if you can really call them that, are perhaps the greatest of them all.” — John Grogan</h1>
+                <h1>“Dogs are great. Bad dogs, if you can really call them that, are perhaps the greatest of them all.” <span>— John Grogan</span></h1>
                 
             </div>
     
             <div class="contact-column">
-                <p>contact for here</p>
-            </div>
-    
+                <h2>Enquire Here <i class="fas fa-hand-point-down"></i></h2>
+            
+
+            <form action="https://formdump.codeinstitute.net" method="POST">
+
+                <fieldset>
+            
+                    <div>
+                        <label for="name-field" class="block-label">Full Name</label>
+                        <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
+                    </div>
+                    <div>
+                        <label for="email-field" class="block-label">Email</label>
+                        <input id="email-field" type="email" name="email" placeholder="Your email" required>
+                    </div>
+                    <div>
+                        <label for="phone-field" class="block-label">Phone Number</label>
+                        <input id="phone-field" type="text" name="phone_number" placeholder="Your number" required>
+                    </div>
+                    <hr class="datalist-hr">
+                    <h3>Preferred Class</h3>
+                    <div>
+                        <label for="preferred-class" class="block-label">Preferred Class</label>
+                        <input id="preferred-class" list="preferred-class" name="preferred-class" required>
+                        <datalist id="preferred-class">
+                            <option value="Tuesday 18:00">
+                            <option value="Thursday 18:00">
+                            <option value="Saturday 10:30">
+                            <option value="Saturday 15:00">
+                        </datalist>
+                        <hr>
+                        <input type="submit" class="block-label" value="Submit">
+                    </div>
+                </div>
         </div>
     </section>
 
