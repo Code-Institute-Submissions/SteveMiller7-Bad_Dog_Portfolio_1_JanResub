@@ -29,6 +29,10 @@ h1, h2 {
     color: #333;
 }
 
+i {
+    color: white;
+}
+
 .p-white {
     color: white;
 }
@@ -151,3 +155,35 @@ hr {
     display: table;
     clear: both;
   }
+
+/* Times Section */
+
+
+  .times-section {
+    display: flex;
+    flex-direction: column;
+    min-height: 400px;
+    background-color: #c9c592;
+    padding-left: 60px;
+  }
+
+  #times {
+    background-image: url('../images/anthony-duran-XFLY0Yp3Gow-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#times div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
