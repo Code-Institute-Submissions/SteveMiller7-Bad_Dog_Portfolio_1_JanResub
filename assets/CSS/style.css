@@ -32,7 +32,7 @@ h1, h2 {
 .active {
     border-left: 1px dotted #3a3a3a;
     border-right: 1px dotted #3a3a3a ;
-    padding: 0 8px;
+    padding: 0 15px;
 }
 
 i {
@@ -236,4 +236,18 @@ footer {
 #photos > img {
     width: 100%;
     
+}
+
+/* Contact section */
+
+
+.contact-column {
+    float: left;
+    width: 45%;
+    padding: 6em 2em;
+  height: 400px;
+}
+.contact-column h1 {
+    color: #c9c592;
+    font-size: 300%;
 }
