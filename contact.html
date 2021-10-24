@@ -20,7 +20,7 @@
         </ul>
         </nav>
     </header> 
-    <section class="info-section">
+    <section class="contact-section">
         <hr>
     
         <div class="row">
@@ -31,7 +31,7 @@
                 
             </div>
     
-            <div class="contact-column">
+            <div class="contact-column-two">
                 <h2>Enquire Here <i class="fas fa-hand-point-down"></i></h2>
             
 
@@ -51,22 +51,33 @@
                         <label for="phone-field" class="block-label">Phone Number</label>
                         <input id="phone-field" type="text" name="phone_number" placeholder="Your number" required>
                     </div>
-                    <hr class="datalist-hr">
-                    <h3>Preferred Class</h3>
+                    
                     <div>
-                        <label for="preferred-class" class="block-label">Preferred Class</label>
-                        <input id="preferred-class" list="preferred-class" name="preferred-class" required>
-                        <datalist id="preferred-class">
-                            <option value="Tuesday 18:00">
-                            <option value="Thursday 18:00">
+                        <hr>
+                        <label for="fav-coffee" class="block-label white">Preferred Class</label>
+                      
+                        <input id="fav-coffee" list="coffees" name="fav-coffee" required>
+                        <datalist id="coffees">
+                            <option value="Tueaday 18:00">
+                            <option value="Thuesday 18:00">
                             <option value="Saturday 10:30">
                             <option value="Saturday 15:00">
                         </datalist>
+                        <div>
+                            <label for="additional-field" class="block-label">Additional Information</label>
+                            <input id="additional-field" type="text" name="additional_info" placeholder="Additional Info" required>
+                        </div>
+    
                         <hr>
                         <input type="submit" class="block-label" value="Submit">
                     </div>
+                        
+                
+
+                    </div>
                 </div>
         </div>
+    </fieldset>
     </section>
 
 <footer>

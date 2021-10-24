@@ -33,6 +33,7 @@ h3 {
     color: white;
 }
 
+
 .active {
     border-left: 1px dotted #3a3a3a;
     border-right: 1px dotted #3a3a3a ;
@@ -44,6 +45,10 @@ i {
 }
 
 .p-white {
+    color: white;
+}
+
+.white { 
     color: white;
 }
 
@@ -189,7 +194,7 @@ hr {
 
 #times div {
     color: #333;
-    background-color: rgba(255, 255, 255, .6);
+    background-color: rgba(255, 255, 255, .7);
     width: 25%;
     height: 300px;
     float: left;
@@ -198,7 +203,7 @@ hr {
     box-sizing: border-box;
 }
 
-#times h2 {
+#times h2, h3 {
     color: #333;
 }
 
@@ -245,29 +250,58 @@ footer {
 /* Contact section */
 
 
+.contact-section {
+    display: flex;
+    flex-direction: column;
+    min-height: 800px;
+    background-color: #333;
+    padding-left: 60px;
+  }
 
 input[type=text],
-input[type=email] {
+input[type=email]
+{
     height: 30px;
     width: 90%;
     padding-left: 10px;
 	margin: 0 auto;
 }
 
+input[type=submit] {
+	margin-top: 20px;
+	padding: 0.75rem;
+	background-color: #c9c592;
+	color:#333;
+	border: none;
+	border-radius: 5px;
+}
+
+input[type=submit]:hover {
+    background-color: red;
+	color:white;
+}
 
 
 .contact-column {
     float: left;
     width: 45%;
+    padding: 12.5em 2em 0 2em;
+  height: 00px;
+}
+
+.contact-column-two {
+    float: left;
+    width: 45%;
     padding: 6em 2em;
   height: 400px;
 }
+
 .contact-column h1 {
     color: #c9c592;
     font-size: 300%;
 }
 
-.contact-column h2 {
+.contact-column-two h2 {
     color: white;
     font-size: 300%;
 }
@@ -284,10 +318,26 @@ fieldset {
 .block-label {
 	display: block;
 }
-datalist {
-    color: #333;
+
+.block-label-white {
+	color: white;
 }
+
 
 .datalist-hr {
     margin: 1.5vh 0;
 }
+
+input[list=coffees] {
+    height: 30px;
+    width: 90%;
+    padding-left: 10px;
+	margin: 0 auto;
+}
+
+.additional-info-box {
+width: 90%;
+
+height: 70px;
+}
+
