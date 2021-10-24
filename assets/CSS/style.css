@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400&display=swap');
 
 * {
     margin: 0;
@@ -10,7 +10,22 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300;
-    color: black;
+    color:#333333;
+}
+
+h1 {
+    font-size:xx-large;
+}
+
+h2 {
+    font-size: xx-large;
+}
+
+h1, h2 {
+    font-family: 'Barlow Condensed', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #333;
 }
 
     /* Nav bar */ 
@@ -18,9 +33,10 @@ body {
 
 #menu {
     font-size: 110%;
+    color: #333;
     letter-spacing: 4px;
     text-align: center;
-    background-color:rgba(255, 255, 255, 0.7);
+    background-color:white
 }
 
 #menu {
@@ -38,7 +54,7 @@ body {
 }
 
 #menu li:hover {
-    color: rgb(139, 158, 152);
+    color: rgb(221, 77, 166);
 }
 
 #menu a {
@@ -56,17 +72,82 @@ body {
     height: 800px;
     width: 100%;
     background: url('../images/main_header_2-01.png') no-repeat left center;
-
-
-    
 }
 
 #logo {
-    background: url('../images/Bad\ Dog.png') no-repeat center center;
+    background: url('../images/Bad\ Dog_grey.png') no-repeat center center;
     height: 600px;
     width: 100vw;
-    background-size: 30%;
+    background-size: 40%;
     
     
     padding-top: 250px;
 }
+
+/* puppy training info */
+
+.info-section {
+
+    height: 800px;
+    width: 100vw;
+    background-color: #333;
+    padding: 40px 0;
+}
+
+.info-section p {
+    color: white;
+}
+
+.info-section ul {
+    color: white;
+}
+
+#welcome {
+    text-align: center;
+    margin: 60px 0 5px 0;
+    font-size: 280%;
+    color: white;
+}
+
+
+
+hr {
+    margin: 2vh 0;
+}
+
+#left-about {
+    padding-top: 30px;
+    width: 25%;
+    float: left;
+    padding-left: 80px;
+    
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 25%;
+    float: right;
+    padding-right: 30px;
+}
+
+#center-about {
+    padding-top: 30px;
+    width: 25%;
+    margin: 0 auto;
+}
+#training-container {
+    width: 400px;
+    height: 400px;
+    padding: 30px;
+    float: right;
+}
+
+#training-right-cover-bg {
+    background: url('../images/pexels-willian-luiz-7444093.jpg') no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+
