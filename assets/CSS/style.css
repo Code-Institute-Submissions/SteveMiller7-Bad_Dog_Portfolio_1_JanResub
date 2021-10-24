@@ -29,6 +29,12 @@ h1, h2 {
     color: #333;
 }
 
+.active {
+    border-left: 1px dotted #3a3a3a;
+    border-right: 1px dotted #3a3a3a ;
+    padding: 0 8px;
+}
+
 i {
     color: white;
 }
@@ -216,4 +222,17 @@ footer {
 .social-networks i:hover {
     color: #c9c592;
     
+}
+
+/* Gallery */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photos > img {
+    width: 100%;
 }
