@@ -95,6 +95,7 @@ i {
 
 /* puppy training info */
 
+
 .info-section {
     display: flex;
     flex-direction: column;
@@ -189,4 +190,30 @@ hr {
 
 #times h2 {
     color: white;
+}
+
+/* footer */
+
+footer {
+    line-height: 200px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 2% 10%;
+    color: #333;
+}
+
+.social-networks i:hover {
+    color: #c9c592;
+    
 }
