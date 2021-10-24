@@ -125,44 +125,14 @@ hr {
 }
 
 
-/*
-hr {
-    margin: 2vh 0;
-}
-
-#left-about {
-    padding-top: 30px;
-    width: 30%;
-    float: left;
-    padding-left: 2vw;
-    display: inline-block;
-    
-}
-
-#right-about {
-    padding-top: 30px;
-    width: 30%;
-    display: inline-block;
-}
-
-#center-about {
-    padding: 30px 30px 0 30px;
-    width: 30%;
-    display: inline-block;
-}
-
-*/
 #training-container {
     width: 300px;
     height: 300px;
 }
 
-.training-padding-left {
-    padding-left: 500px;
-}
 
 #training-right-cover-bg {
-    background: url('../images/pexels-willian-luiz-7444093.jpg') no-repeat center center;
+    background: url('../images/AdobeStock_132854062.jpeg') no-repeat right center;
     background-size: cover;
     height: 100%;
     overflow: hidden;
