@@ -138,8 +138,6 @@ hr {
 #training-container {
     width: 400px;
     height: 400px;
-    padding: 30px;
-    float: right;
 }
 
 #training-right-cover-bg {
@@ -148,6 +146,3 @@ hr {
     height: 100%;
     overflow: hidden;
 }
-
-
-
