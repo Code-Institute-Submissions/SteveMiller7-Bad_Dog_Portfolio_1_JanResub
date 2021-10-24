@@ -258,13 +258,15 @@ footer {
     padding-left: 60px;
   }
 
+
 input[type=text],
 input[type=email]
 {
     height: 30px;
     width: 90%;
     padding-left: 10px;
-	margin: 0 auto;
+
+	margin: 15px auto;
 }
 
 input[type=submit] {
