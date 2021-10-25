@@ -31,6 +31,8 @@ h1, h2 {
 
 h3 {
     color: white;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 2px;
 }
 
 
@@ -188,7 +190,6 @@ hr {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    width: 100%;
     overflow: hidden;
 }
 
