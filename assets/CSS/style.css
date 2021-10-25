@@ -239,12 +239,14 @@ footer {
 #photos {
     clear: both;
     line-height: 0;
-    column-count: 3;
-    column-gap: 0;
+    column-count: 4;
+    column-gap: 10px;
+    
 }
 
 #photos > img {
     width: 100%;
+    padding-bottom: 10px;
     
 }
 
