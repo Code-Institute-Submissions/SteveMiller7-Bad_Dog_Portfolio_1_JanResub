@@ -5,10 +5,13 @@
 ![mockup](https://i.imgur.com/Sbiou8i.png)
 ##  [Visit the site on GitHub Pages](https://stevemiller7.github.io/Bad_Dog_Portfolio_1/).
 
-Website presents fictional company, Bad Dog Puppy Training, Glasgow, Scotland. Users will be 
+Our website presents a fictional company. Bad Dog Puppy Training, Glasgow, Scotland. Users will be 
 able to find information on class days and times along with services offered and enquiry form. 
 
 This is a static front-end site designed to present information on puppy training classes based in Glasgow. 
+
+We have included a description of the services along with a gallery of images showing dogs from previous classes. 
+The inclusion of the contact form allows users to contact us with key information being collected. 
 
 ***
 # Table of Contents
@@ -19,7 +22,7 @@ This is a static front-end site designed to present information on puppy trainin
 ## Website Objectives
 The primary function of this website is to promote puppy training classes whilst outlining the goals of the training, class days and times as well as offering a contact option to gather the required information for the business. 
 
-## New User Goals
+## New User Benefits
 
 - Obtain information on the benefits of puppy training
 - Find class times and days
