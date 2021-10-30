@@ -1,106 +1,99 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Bad Dog Puppy Training puppy obedience training, Glasgow, Scotland">
     <meta name="keywords" content="Bad dog, puppy training, glasgow, miller park, scotland">
-
     <link rel="stylesheet" href="assets/CSS/style.css">
+    <script>
+        mybutton = document.getElementById("myBtn");
+
+        function topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0; 
+        }
+    </script>
     <title>Gallery</title>
 </head>
+
 <body>
+    <!-- Header -->
     <header>
-    
         <nav id="menu">
             <ul>
-                
-                <li><a href="index.html" >Home</a></li>
+                <li><a href="index.html">Home</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="contact.html" class="active">Contact</a></li>          
-        </ul>
+                <li><a href="contact.html" class="active">Contact</a></li>
+            </ul>
         </nav>
-    </header> 
+    </header>
+    <!-- Contact Section -->
     <section class="contact-section">
         <hr>
-    
         <div class="row">
-           
-    
             <div class="contact-column">
-                <h1>“Dogs are great. Bad dogs, if you can really call them that, are perhaps the greatest of them all.” <span>— John Grogan</span></h1>
-                
+                <h1>“Dogs are great. Bad dogs, if you can really call them that, are perhaps the greatest of them all.”
+                    <span>— John Grogan</span></h1>
             </div>
-    
             <div class="contact-column-two">
                 <h2>Enquire Here <i class="fas fa-hand-point-down"></i></h2>
-            
+                <form action="https://formdump.codeinstitute.net" method="POST">
+                    <!-- Form -->
+                    <fieldset>
 
-            <form action="https://formdump.codeinstitute.net" method="POST">
-
-                <fieldset>
-            
-                    <div>
-                        <label for="name-field" class="block-label white"></label>
-                        <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
-                    </div>
-                    <div>
-                        <label for="email-field" class="block-label white"></label>
-                        <input id="email-field" type="email" name="email" placeholder="Your email" required>
-                    </div>
-                    <div>
-                        <label for="phone-field" class="block-label white"></label>
-                        <input id="phone-field" type="text" name="phone_number" placeholder="Your number" required>
-                    </div>
-                    
-                    <div>
-                        
-                        <label for="fav-coffee" class="block-label white">Preferred Class</label>
-                      
-                        <input id="fav-coffee" list="coffees" name="fav-coffee" required>
-                        <datalist id="coffees">
-                            <option value="Tueaday 18:00">
-                            <option value="Thuesday 18:00">
-                            <option value="Saturday 10:30">
-                            <option value="Saturday 15:00">
-                        </datalist>
                         <div>
-                            <label for="additional-field" class="block-label">Additional Information</label>
-                            <input id="additional-field" type="text" name="additional_info" placeholder="Additional Info" required>
+                            <label for="name-field" class="block-label white"></label>
+                            <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
                         </div>
-    
-                        <hr>
-                        <input type="submit" class="block-label" value="Submit">
-                    </div>
-                        
-                </fieldset>
+                        <div>
+                            <label for="email-field" class="block-label white"></label>
+                            <input id="email-field" type="email" name="email" placeholder="Your email" required>
+                        </div>
+                        <div>
+                            <label for="phone-field" class="block-label white"></label>
+                            <input id="phone-field" type="text" name="phone_number" placeholder="Your number" required>
+                        </div>
+                        <div>
+                            <label for="fav-coffee" class="block-label white">Preferred Class</label>
+                            <input id="fav-coffee" list="coffees" name="fav-coffee" required>
+                            <datalist id="coffees">
+                                <option value="Tuesday 18:00">
+                                <option value="Thursday 18:00">
+                                <option value="Saturday 10:30">
+                                <option value="Saturday 15:00">
+                            </datalist>
+                            <hr>
+                            <input type="reset" class="block-label" value="Submit">
+                        </div>
+                    </fieldset>
                 </form>
-                </div>
+            </div>
         </div>
-    
     </section>
-
-<footer>
-    <ul class="social-networks">
-        <li>
-            <a href="http://facebook.com" target="_blank" rel="noopener" aria-label="Visit our facebook page (opens in a new tab)"><i class="fab fa-facebook"></i></a>
-        </li>
-        <li>
-            <a href="http://instagram.com" target="_blank" rel="noopener" aria-label="Visit our instagram page (opens in a new tab)"><i class="fab fa-instagram"></i></a>
-        </li>
-        <li>
-            <a href="http://youtube.com" target="_blank" rel="noopener" aria-label="Visit our youtube page (opens in a new tab)"><i class="fab fa-youtube-square"></i></a>
-        </li>
-        
-    </ul>
-</footer>
-
-
-    <!-- font awesome script --> 
-
+    <!-- Footer -->
+    <footer>
+        <ul class="social-networks">
+            <li>
+                <a href="http://facebook.com" target="_blank" rel="noopener"
+                    aria-label="Visit our facebook page (opens in a new tab)"><i class="fab fa-facebook"></i></a>
+            </li>
+            <li>
+                <a href="http://instagram.com" target="_blank" rel="noopener"
+                    aria-label="Visit our instagram page (opens in a new tab)"><i class="fab fa-instagram"></i></a>
+            </li>
+            <li>
+                <a href="http://youtube.com" target="_blank" rel="noopener"
+                    aria-label="Visit our youtube page (opens in a new tab)"><i class="fab fa-youtube-square"></i></a>
+            </li>
+        </ul>
+    </footer>
+    <!-- Back to Top button -->
+    <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-angle-up" id="arrow-up"></i></button>
+    <!-- font awesome script -->
     <script src="https://kit.fontawesome.com/e24716021f.js" crossorigin="anonymous"></script>
-
-
 </body>
+
 </html>
