@@ -45,6 +45,8 @@ The inclusion of the contact form allows users to contact us with key informatio
   - Performance testing
 - [Code Validation](#code-validation)
 - [Deployment](#deployment)
+- [Credits](#credits)
+
 
 ***
 
@@ -267,10 +269,12 @@ Ideas and coding guides:
 - www.w3schools.com
 - Diploma in Software Development (E-commerce Applications) from Code Institute.
 
-# Content
+## Content
 
 Information for this fictional website was taken from Scotland based business Perth Dog training.
 - www.perthdogtraining.co.uk
+
+## Images
 
 Licensed and royalty free images were taken from:
 - stock.adobe.com
