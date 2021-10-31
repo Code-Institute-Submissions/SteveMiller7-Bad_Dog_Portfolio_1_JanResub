@@ -17,19 +17,28 @@ The inclusion of the contact form allows users to contact us with key informatio
 
 # Table of Contents
 
-- Website Objectives [Go To](#website-objectives)
+- [Website Objectives](#website-objectives)
   - New User Benefits
   - Returning User Advantages
-- Website Layout [Go To](#website-layout)
-- Wireframes [Go To](#wireframes)
+- [Website Layout](#website-layout)
+- [Wireframes](#wireframes)
   - Home Page
   - Gallery Page
   - Contact Page
-- Aesthetics [Go To](#aesthetics)
+- [Aesthetics](#aesthetics)
   - Colour Palette
   - Fonts
   - Images
-
+- [Features](#features)
+  - Navigation Bar
+  - Header
+  - Information Section
+  - Class Days and Times
+  - Footer
+  - Back to Top Button
+  - Gallery
+  - Contact Form
+- [Technologies Used](#technologies-used)
 ***
 
 # Website Objectives
@@ -93,6 +102,8 @@ Softer, soothing colours were choesn to create a more relaxing feel to the site 
 
 Royalty free and licensed images were sourced from www.pexels.com and stock.adobe.com. 
 
+[Back to Table of Contents](#table-of-contents)
+
 ***
 
 # Features
@@ -102,6 +113,8 @@ The website is made up of 3 pages. A 'Home' page, 'Gallery' page and 'Contact' p
 Key features are as follows:
 
 ## Navigation Bar
+
+![wireframe-contact](https://i.imgur.com/G0CUCjt.png)
 
 The Navigation Bar is located at the top of each page and is consitent in style throughout the site. 
 
@@ -131,20 +144,73 @@ Links to each page are included for easy navigation to:
  This is all overlayed on to an imge of dogs.
 
  ## Footer
+
+ ![wireframe-contact](https://i.imgur.com/xlg4Awy.png)
+
 A clean minimal fopoter containing only social media icons for:
 - Facebook
 - Instagram
 - You Tube
 
 ## Back to Top Button
-For easy navigation backl to the top of the page.
+For easy navigation backl to the top of the page. A hover feature is included for accessibility and aesthetics.
+
+![wireframe-contact](https://i.imgur.com/htCHfZg.png)
 
 ## Gallery
 A selection of images of dogs from previous classes. 
 
-## Contact Page
+## Contact Form
+
+![wireframe-contact](https://i.imgur.com/ZwLxXlB.png)
+
 All contact to the business will be made via the contact page form with the aim of return contact being made after the enquiry. Users will add their:
 - Name
 - Email address
 - Phone number
 - Preferred class chaoice
+
+[Back to Table of Contents](#table-of-contents)
+
+***
+
+# Technologies Used
+
+## HTML 5
+- Structure Language
+
+## CSS
+- Styling Language
+
+## Google Fonts
+- As a font resource.
+
+## Font Awesome
+- Icons for headings and socials links
+
+## Pexels
+- Images
+
+## Adobe Stock
+- Images
+
+## Github
+- As a software hosting platform to keep project in a remote location.
+
+## Gitpod
+- As a development hosting platform.
+
+## Balsamiq
+- To create wireframes
+
+## Adobe Illustrator
+- Logo creation
+- PNG production
+
+## Photoshop
+- Screens mockup image
+
+## Imgur
+- Image hosting
+
+[Back to Table of Contents](#table-of-contents)
