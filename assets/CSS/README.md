@@ -42,6 +42,8 @@ It has been desinged to be clear and as user friendly as possible with the use o
 Accessibility has been carefully considered with the use of cointrasting colours and alt text equivalents for the visually immpared. 
 The site is responsive for all screen sizes and tailored to suit each. The user experince will be smooth and satisfying accros all devices. 
 
+# Wireframes
+
 ## Home Page
 ![wireframe-home](https://i.imgur.com/pGgGLkN.png)
 
@@ -52,3 +54,20 @@ The site is responsive for all screen sizes and tailored to suit each. The user 
 ## Contact Page
 
 ![wireframe-contact](https://i.imgur.com/BqIGAfQ.png)
+
+
+# Aesthetics
+
+The look of the site was created with the aim of being clean, professional and modern.
+
+Softer, soothing colours were choesn to create a more relaxing feel to the site with a nice light sage green used to reflect the grass of the location where the classes are held. 
+
+## Colour Palette
+- Light Sage Green Hex #c9c592
+- Darker Grey Hex #333
+- White
+- Contrasting Purple rgb(180, 54, 123)
+
+## Fonts
+- Body - Urbanist with a back up of sans-serif.
+- Headings - Bebas Neue with a backup of Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif.
