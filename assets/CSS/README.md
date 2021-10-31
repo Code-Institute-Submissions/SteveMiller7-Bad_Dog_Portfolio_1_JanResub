@@ -3,7 +3,7 @@
 # Portfolio Project 1 - HTML/CSS Essentials
 ***
 ![mockup](https://i.imgur.com/Sbiou8i.png)
-##  [Visit the site on GitHub Pages](https://stevemiller7.github.io/Bad_Dog_Portfolio_1/).
+##  [Visit the site on GitHub](https://stevemiller7.github.io/Bad_Dog_Portfolio_1/).
 
 Our website presents a fictional company. Bad Dog Puppy Training, Glasgow, Scotland. Users will be 
 able to find information on class days and times along with services offered and enquiry form. 
@@ -39,6 +39,13 @@ The inclusion of the contact form allows users to contact us with key informatio
   - Gallery
   - Contact Form
 - [Technologies Used](#technologies-used)
+- [Testing](#testing)
+  - Functionality Testing
+  - Compaitibility Testing
+  - Performance testing
+- [Code Validation](#code-validation)
+- [Deployment](#deployment)
+
 ***
 
 # Website Objectives
@@ -168,7 +175,7 @@ All contact to the business will be made via the contact page form with the aim 
 - Name
 - Email address
 - Phone number
-- Preferred class chaoice
+- Preferred class choice
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -228,9 +235,7 @@ This allowed me to regularty test the responsiveness and also idenity any proble
 
 The site was tested on various devices including iPhone, Macbook Pro, iMac and iPad. I also tested it on Google Chrome Dev Tools. 
 
-***
-
-# Performance Testing
+## Performance Testing
 
 I used Google Chrome Developer Tool Lighthouse to check performance of the site.
 
@@ -241,5 +246,34 @@ I used Google Chrome Developer Tool Lighthouse to check performance of the site.
 I regularly check my HTML and CSS code using 2 websites.
 - validator.w3.org
 - jigsaw.w3.org
+
+[Back to Table of Contents](#table-of-contents)
+
+***
+
+# Deployment
+
+The site was created and deployed using Github. It can be accessed through the link:
+- https://stevemiller7.github.io/Bad_Dog_Portfolio_1/
+
+***
+
+# Credits
+
+Initital creation of the project was donw using Code Institute student template: 
+- gitpod full template
+
+Ideas and coding guides:
+- www.w3schools.com
+- Diploma in Software Development (E-commerce Applications) from Code Institute.
+
+# Content
+
+Information for this fictional website was taken from Scotland based business Perth Dog training.
+- www.perthdogtraining.co.uk
+
+Licensed and royalty free images were taken from:
+- stock.adobe.com
+- pexels.com
 
 [Back to Table of Contents](#table-of-contents)
