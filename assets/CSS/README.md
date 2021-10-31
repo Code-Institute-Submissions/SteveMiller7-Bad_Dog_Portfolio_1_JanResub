@@ -15,6 +15,23 @@ The inclusion of the contact form allows users to contact us with key informatio
 
 ***
 
+# Table of Contents
+
+- Website Objectives [Go To](#website-objectives)
+  - New User Benefits
+  - Returning User Advantages
+- Website Layout [Go To](#website-layout)
+- Wireframes [Go To](#wireframes)
+  - Home Page
+  - Gallery Page
+  - Contact Page
+- Aesthetics [Go To](#aesthetics)
+  - Colour Palette
+  - Fonts
+  - Images
+
+***
+
 # Website Objectives
 The primary function of this website is to promote puppy training classes whilst outlining the goals of the training, class days and times as well as offering a contact option to gather the required information for the business. 
 
@@ -71,3 +88,63 @@ Softer, soothing colours were choesn to create a more relaxing feel to the site 
 ## Fonts
 - Body - Urbanist with a back up of sans-serif.
 - Headings - Bebas Neue with a backup of Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif.
+
+## Images
+
+Royalty free and licensed images were sourced from www.pexels.com and stock.adobe.com. 
+
+***
+
+# Features
+
+The website is made up of 3 pages. A 'Home' page, 'Gallery' page and 'Contact' page.
+
+Key features are as follows:
+
+## Navigation Bar
+
+The Navigation Bar is located at the top of each page and is consitent in style throughout the site. 
+
+The 'active' page is indicated with a left and right dotted border. A 'Hover' feature has also been added. 
+
+Links to each page are included for easy navigation to:
+- Home
+- Gallery
+- Contact
+
+## Header
+ The header includes two features:
+ - Licensed image
+ - Custom designed logo
+
+ ## Information Section
+ - Puppy Classes
+ - Class Content
+ - Angry dog image
+
+ ## Class Days and Times
+ This section clearly advertises the days and times that the classes are held whihc inludes:
+ - Day
+ - Time
+ - Location
+
+ This is all overlayed on to an imge of dogs.
+
+ ## Footer
+A clean minimal fopoter containing only social media icons for:
+- Facebook
+- Instagram
+- You Tube
+
+## Back to Top Button
+For easy navigation backl to the top of the page.
+
+## Gallery
+A selection of images of dogs from previous classes. 
+
+## Contact Page
+All contact to the business will be made via the contact page form with the aim of return contact being made after the enquiry. Users will add their:
+- Name
+- Email address
+- Phone number
+- Preferred class chaoice
