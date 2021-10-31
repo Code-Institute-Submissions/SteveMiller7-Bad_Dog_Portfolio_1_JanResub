@@ -14,10 +14,6 @@ We have included a description of the services along with a gallery of images sh
 The inclusion of the contact form allows users to contact us with key information being collected. 
 
 ***
-# Table of Contents
-
-
-
 
 ## Website Objectives
 The primary function of this website is to promote puppy training classes whilst outlining the goals of the training, class days and times as well as offering a contact option to gather the required information for the business. 

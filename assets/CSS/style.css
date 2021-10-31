@@ -284,7 +284,7 @@ input[type=email] {
     margin: 15px auto;
 }
 
-input[type=reset] {
+input[type=submit] {
     margin-top: 20px;
     padding: 0.75rem;
     background-color: #c9c592;
@@ -293,7 +293,7 @@ input[type=reset] {
     border-radius: 5px;
 }
 
-input[type=reset]:hover {
+input[type=submit]:hover {
     background-color: rgb(180, 54, 123);
     color: white;
 }
@@ -343,7 +343,7 @@ fieldset {
     margin: 1.5vh 0;
 }
 
-input[list=coffees] {
+input[list=park] {
     height: 30px;
     width: 90%;
     padding-left: 10px;
