@@ -235,3 +235,11 @@ The site was tested on various devices including iPhone, Macbook Pro, iMac and i
 I used Google Chrome Developer Tool Lighthouse to check performance of the site.
 
 ![wireframe-contact](https://i.imgur.com/excDgVk.png)
+
+# Code Validation
+
+I regularly check my HTML and CSS code using 2 websites.
+- validator.w3.org
+- jigsaw.w3.org
+
+[Back to Table of Contents](#table-of-contents)
