@@ -214,3 +214,16 @@ All contact to the business will be made via the contact page form with the aim 
 - Image hosting
 
 [Back to Table of Contents](#table-of-contents)
+
+***
+
+# Testing
+
+## Functionality Testing
+Website functionality testing was done using Google Chrome Developer Tools.
+
+This allowed me to regularty test the responsiveness and also idenity any problems with the format of the site. 
+
+## Compaitibility testing
+
+The site was tested on various devices including iPhone, Macbook Pro, iMac and iPad. I also tested it on Google Chrome Dev Tools. 
