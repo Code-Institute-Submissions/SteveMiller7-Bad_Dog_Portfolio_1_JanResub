@@ -227,3 +227,11 @@ This allowed me to regularty test the responsiveness and also idenity any proble
 ## Compaitibility testing
 
 The site was tested on various devices including iPhone, Macbook Pro, iMac and iPad. I also tested it on Google Chrome Dev Tools. 
+
+***
+
+# Performance Testing
+
+I used Google Chrome Developer Tool Lighthouse to check performance of the site.
+
+![wireframe-contact](https://i.imgur.com/excDgVk.png)
