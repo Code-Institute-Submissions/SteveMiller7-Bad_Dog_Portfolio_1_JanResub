@@ -255,8 +255,23 @@ I regularly check my HTML and CSS code using 2 websites.
 
 # Deployment
 
-The site was created and deployed using Github. It can be accessed through the link:
-- https://stevemiller7.github.io/Bad_Dog_Portfolio_1/
+The project was deployed on GitHub Pages. I used Gitpod as a development environment where I commited all changes to git version control system. I used push command in Gitpod to save changes into GitHub.
+To deploy the project I  had to:
+
+- Log in to GitHub and click on repository to deploy (Bad_Dog_Portfolio_1)
+- Select `Settings` and find GitHub Pages section down the left hand column. 
+- From the Source select `none` and then `main` branch.
+- click `save` and page was deployed after auto-refresh.
+
+ Your site is published at https://stevemiller7.github.io/Bad_Dog_Portfolio_1/
+
+To run localy:
+
+- Log in to GitHub and click on repository to download (Bad_Dog_Portfolio_1)
+- select `Code` and click Download the ZIP file.
+- after download you can extract the file and use it in your local environment
+
+Alternatively you can Clone or Fork this repository (Bad_Dog_Portfolio_1) into your github account.
 
 ***
 
