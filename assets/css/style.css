@@ -85,7 +85,7 @@ i {
     color: inherit;
 }
 
-/* main banner and logo */
+/* main banner and logo - home page */
 
 .main-banner-image {
     height: 800px;
@@ -101,7 +101,7 @@ i {
     padding-top: 250px;
 }
 
-/* puppy training info */
+/* puppy training info - home page */
 
 .info-section {
     background-color: #333;
@@ -193,7 +193,7 @@ hr {
     font-size: 24px;
 }
 
-/* Times Section */
+/* Times Section - home page */
 
 .times-section {
     display: flex;
@@ -252,7 +252,7 @@ footer {
     color: #c9c592;
 }
 
-/* Gallery */
+/* Gallery page */
 
 #photos {
     clear: both;
@@ -266,7 +266,7 @@ footer {
     padding-bottom: 10px;
 }
 
-/* Contact section */
+/* Contact page */
 
 .contact-section {
     display: flex;
@@ -415,7 +415,7 @@ input[list=park] {
         overflow: hidden;
     }
 
-    /* Gallery */
+    /* Gallery page */
 
     #photos {
         clear: both;
@@ -550,7 +550,7 @@ input[list=park] {
         padding-top: 50px;
     }
 
-    /* times section */
+    /* times section - home page */
 
     .times-section {
         display: flex;
@@ -578,7 +578,7 @@ input[list=park] {
         box-sizing: border-box;
     }
 
-    /* Gallery */
+    /* Gallery page */
 
     #photos {
         line-height: 0;
