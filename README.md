@@ -238,14 +238,33 @@ This allowed me to regularty test the responsiveness and also idenity any proble
 The site was tested on various devices including:
 - iPhone
 - Macbook Pro
-- iMac and iPad
+- iMac
+- iPad
 - I also tested it on Google Chrome Dev Tools. 
 
 ## Performance Testing
 
 I used Google Chrome Developer Tool Lighthouse to check performance of the site.
 
-![wireframe-contact](https://i.imgur.com/excDgVk.png)
+![lighthouse performance results image](https://i.imgur.com/excDgVk.png)
+
+The main problem with the home page was the high resolution images that i had used which was affecting the performance.
+
+![low performance issue image](https://i.imgur.com/AefvGJY.png)
+
+I took all of the images to photoshop and optimized them for web. After uploading the new images the next performance test came back with a hugely improved rating. 
+
+![new home page performance results image](https://i.imgur.com/VzNwcAk.png)
+
+The Gallery page was scoring very low on performance because of the high resolution images. Once id optimized them and replaced them the rating shot up.
+
+![new home page performance results image](https://i.imgur.com/GQPC2at.png)
+
+![new home page performance results image](https://i.imgur.com/Tmo1CD8.png)
+
+The gallery page results were fine throughout.
+
+![new home page performance results image](https://i.imgur.com/ffUF2bH.png)
 
 # Code Validation
 
