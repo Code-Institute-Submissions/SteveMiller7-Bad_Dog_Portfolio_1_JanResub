@@ -277,22 +277,25 @@ Alternatively you can Clone or Fork this repository (Bad_Dog_Portfolio_1) into y
 
 # Credits
 
-Initital creation of the project was donw using Code Institute student template: 
+Initital creation of the project was done using Code Institute student template: 
 - gitpod full template
 
 Ideas and coding guides:
 - www.w3schools.com
 - Diploma in Software Development (E-commerce Applications) from Code Institute.
+- Love Running walkthrough project from Code Institute.
 
 ## Content
 
 Information for this fictional website was taken from Scotland based business Perth Dog training.
 - www.perthdogtraining.co.uk
 
-## Images
+## Images, Icons and Styling
 
 Licensed and royalty free images were taken from:
 - stock.adobe.com
 - pexels.com
+- fontawesome.com
+- fonts.google.com
 
 [Back to Table of Contents](#table-of-contents)
