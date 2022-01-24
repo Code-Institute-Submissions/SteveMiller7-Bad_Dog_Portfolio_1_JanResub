@@ -235,7 +235,11 @@ This allowed me to regularty test the responsiveness and also idenity any proble
 
 ## Compaitibility testing
 
-The site was tested on various devices including iPhone, Macbook Pro, iMac and iPad. I also tested it on Google Chrome Dev Tools. 
+The site was tested on various devices including:
+- iPhone
+- Macbook Pro
+- iMac and iPad
+- I also tested it on Google Chrome Dev Tools. 
 
 ## Performance Testing
 
