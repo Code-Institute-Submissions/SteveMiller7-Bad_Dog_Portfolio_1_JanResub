@@ -231,14 +231,18 @@ All contact to the business will be made via the contact page form with the aim 
 ## Functionality Testing
 Website functionality testing was done using Google Chrome Developer Tools.
 
-This allowed me to regularty test the responsiveness and also idenity any problems with the format of the site.
+This allowed me to regularty test the responsiveness and also idenitify any problems with the format of the site.
 
-During the design process the site was shown to my fellow students on slack for feedback in style, function and navigation. One seggestion that was made was to incorporate a back to top button for quick access to the nav bar. 
+During the design process the site was shown to my fellow students on slack for feedback in style, function and navigation. One suggestion that was made was to incorporate a back to top button for quick access to the nav bar. 
 I added it and styled to suit. 
 
 When creating my enquiry form I tested it to make sure that the input fields contained the relevant information and displayed a warning message if not. 
 
 On the home page I used an alternative image for phone screens and moved the logo position as the image used for bigger screens didnt work at that size. 
+
+I am very happy with the overall the feel of the site and the smooth flow of functionlity. 
+
+At this point there are no bugs or issues to be resolved.
 
 ## Compaitibility testing
 
