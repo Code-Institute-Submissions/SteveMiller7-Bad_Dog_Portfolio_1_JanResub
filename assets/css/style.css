@@ -90,7 +90,7 @@ i {
 .main-banner-image {
     height: 800px;
     width: 100%;
-    background: url('../images/main_header_2-01.png') no-repeat left center;
+    background: url('../images/header.jpg') no-repeat left center;
 }
 
 #logo {
@@ -143,7 +143,7 @@ hr {
 }
 
 #training-right-cover-bg {
-    background: url('../images/AdobeStock_132854062.jpeg') no-repeat right center;
+    background: url('../images/growler.jpg') no-repeat right center;
     background-size: cover;
     height: 100%;
     overflow: hidden;
@@ -204,7 +204,7 @@ hr {
 }
 
 #times {
-    background-image: url('../images/anthony-duran-XFLY0Yp3Gow-unsplash.jpg');
+    background-image: url('../images/dogs_on_grass.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
